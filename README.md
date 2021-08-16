@@ -1,16 +1,13 @@
-# learning_series
+# StatusBar (sorta_learning_series - Learning 13)
+- As the application includes an AppBar at the top, by default the AppBar affects the status bar appearance. Therefore, by modifying the AppBar the status bar can be changed.
+- Other way is to use SystemChrome.setSystemUIOverlayStyle, which is used to set the SystemUiOverlayStyle.
 
-A new Flutter project.
+A project based on learning differnt concept of flutter.
 
-## Getting Started
+Include:
+ - StatusBar with AppBar
+ - StatusBar without AppBar for two differnt pages with different color and opacity
+ - Usage of route in materialApp for Navigation between pages/route
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
